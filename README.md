@@ -3,6 +3,3 @@ The objective of this project is to utilize an LSTM neural network for forecasti
 
 Badges
 Windows 11 Visual Studio Code GitHub Python Matplotlib NumPy Pandas TensorFlow Keras
-
-Documentation
-In this code there will be 2 sections, where 1st part is loading the data from "cases_malaysia_train.csv" while 2nd part of the code is loading the data from "cases_malaysia_test.csv".
